@@ -1,6 +1,6 @@
 #Tic Tac Toe Game
 Introduction
-This is a simple implementation of the classic Tic Tac Toe game built using [insert technologies/frameworks here]. The game allows two players to take turns marking the spaces in a 3x3 grid with "X" or "O" until one player wins or the game ends in a draw.
+This is a simple implementation of the classic Tic Tac Toe game built using HTML,CSS,JAVASCRIPT. The game allows two players to take turns marking the spaces in a 3x3 grid with "X" or "O" until one player wins or the game ends in a draw.
 
 Features
 Interactive Gameplay: Players can make their moves by clicking on the grid.
